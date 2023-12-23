@@ -495,7 +495,7 @@ dcConsData = [
     tags: ["미지정"],
   },
   {
-    name: "~진돌아.png",
+    name: "진돌아.png",
     keywords: ["진돌아"],
     tags: ["미지정"],
   },
