@@ -1838,5 +1838,5 @@ dcConsData = [
     name: "3분.gif",
     keywords: ["3분"],
     tags: ["미지정"],
-  }
+  },
 ];
